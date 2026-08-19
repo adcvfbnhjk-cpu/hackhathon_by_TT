@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -27,14 +27,15 @@
 <body>
 
     <header>
-        <h1>Bienvenue sur mon site</h1>
+        <h1>mohamed amine rajhi</h1>
+         <h2>Inscription au Hackathon by TT </h2>
     </header>
 
     <main>
         <h2>Page d'accueil</h2>
-        <p>Ceci est un exemple de texte dans un paragraphe HTML.</p>
-        <p>https://forms.gle/tWLKccs9qBL5itJY8  .</p>
-        <p>Pour modifier ce site, changez simplement le code source et enregistrez le fichier.</p>
+        <p> Inscrivez vous à partir de ce lien </p>
+        <a href="https://forms.gle/PmRKZJMkCW7jDuRt5"> Inscription  </a>
+        <p> Bonne continuation </p>
     </main>
 
 </body>
