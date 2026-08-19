@@ -32,7 +32,7 @@
     </header>
 
     <main>
-        <h2>Page d'accueil</h2>
+        <h2>Bienvenue </h2>
         <p> Inscrivez vous à partir de ce lien </p>
         <a href="https://forms.gle/PmRKZJMkCW7jDuRt5"> Inscription  </a>
         <p> Bonne continuation </p>
