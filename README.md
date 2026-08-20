@@ -1,3 +1,4 @@
+<img width="999" height="551" alt="images (1)" src="https://github.com/user-attachments/assets/e6684310-4b02-49ae-87d0-7837d03fd87d" />
 
 <html lang="fr">
 <head>
@@ -24,9 +25,8 @@
         }
        
         
-        <a href="https://github.com">
-   <img src="images/images(1).png" alt="Description de l'image" width="400">
-</a>
+  <img width="999" height="551" alt="images (1)" src="https://github.com/user-attachments/assets/7ba64640-cf2d-47a2-8988-79fa17e3f2bd" />
+
     </style>
 </head>
 <body>
