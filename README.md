@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #fdfdfd;
+            background-color: #ff0000;
         }
         header {
             background: #333;
