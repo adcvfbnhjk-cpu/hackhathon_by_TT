@@ -1,4 +1,3 @@
-<img width="999" height="257" alt="images (1)" src="https://github.com/user-attachments/assets/04b7e454-94db-4949-95df-a5e4933bf4f3" />
 
 
 <html lang="fr">
@@ -35,7 +34,7 @@
          <h2>Inscription au Hackathon by TT </h2>
     </header>
   <a>      
-<img width="999" height="257" alt="iu" src="https://github.com/user-attachments/assets/e0405d08-7203-479c-b503-cad2f1341241" />
+
 
 
   </a>
