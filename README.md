@@ -9,11 +9,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #ff0000;
+            background-color: #000080;
         }
         header {
-            background: #333;
-            color: #fff;
+            background: #444 ;
+            color: #ddd;
             padding: 10px 0;
             text-align: center;
         }
@@ -27,7 +27,7 @@
 <body>
 
     <header>
-        <h1>khaled ben mlouka</h1>
+        <h1>Direction centrale innovation et strategie</h1>
          <h2>Inscription au Hackathon by TT </h2>
     </header>
 
