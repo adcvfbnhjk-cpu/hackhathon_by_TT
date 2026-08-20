@@ -25,7 +25,7 @@
        
         
         <a href="https://github.com">
-    <img src="https://githubusercontent.com" alt="Mon logo hébergé sur GitHub">
+   <img src="images/ma-photo.png" alt="Description de l'image" width="400">
 </a>
     </style>
 </head>
