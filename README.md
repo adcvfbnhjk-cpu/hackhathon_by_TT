@@ -35,7 +35,8 @@
          <h2>Inscription au Hackathon by TT </h2>
     </header>
   <a>      
-  <img width="999" height="551" alt="images (1)" src="https://github.com/user-attachments/assets/7ba64640-cf2d-47a2-8988-79fa17e3f2bd" />
+<img width="999" height="257" alt="images (1)" src="https://github.com/user-attachments/assets/33c300d1-a61d-4b2e-b2ca-074dee511f4f" />
+
   </a>
     <main>
         <h2>Bienvenue </h2>
