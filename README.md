@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f4f4f4;
+            background-color: #fdfdfd;
         }
         header {
             background: #333;
@@ -27,7 +27,7 @@
 <body>
 
     <header>
-        <h1>mohamed amine rajhi</h1>
+        <h1>khaled ben mlouka</h1>
          <h2>Inscription au Hackathon by TT </h2>
     </header>
 
