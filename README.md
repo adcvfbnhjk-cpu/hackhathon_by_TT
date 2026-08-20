@@ -31,15 +31,16 @@
 <body>
 
     <header>
-        <h1>Direction centrale innovation et strategie</h1>
-         <h2>Inscription au Hackathon by TT </h2>
-    </header>
-  <a>      
+     <a>      
 
 <img width="999" height="257" alt="iu" src="https://github.com/user-attachments/assets/765e64e0-cb98-46ac-a9bf-d20c36ccf1b0" />
 
 
   </a>
+        <h1>Direction centrale innovation et strategie</h1>
+         <h2>Inscription au Hackathon by TT </h2>
+    </header>
+ 
     <main>
         <h2>Bienvenue </h2>
         <p> Inscrivez vous à partir de ce lien </p>
