@@ -1,5 +1,5 @@
 <img width="999" height="257" alt="images (1)" src="https://github.com/user-attachments/assets/04b7e454-94db-4949-95df-a5e4933bf4f3" />
-<img width="999" height="551" alt="images (1)" src="https://github.com/user-attachments/assets/e6684310-4b02-49ae-87d0-7837d03fd87d" />
+
 
 <html lang="fr">
 <head>
