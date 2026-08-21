@@ -34,7 +34,7 @@
      <a>      
 
 
-<img width="250" height="170" alt="images" src="https://github.com/user-attachments/assets/191537f5-c5ba-47ca-b426-cd8dfee0249b" />
+<img width="200" height="100" alt="images" src="https://github.com/user-attachments/assets/191537f5-c5ba-47ca-b426-cd8dfee0249b" />
 
 
   </a>
